@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-int num1,num2;
+int num1=5,num2=3;
 printf("num1=");
 scanf("%d",&num1);
 printf("\nnum2");
