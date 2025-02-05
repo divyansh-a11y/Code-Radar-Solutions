@@ -10,5 +10,6 @@ if(a>b)
 printf("a is >");
 else
 printf("b is >");
+return 0;
 }
 
