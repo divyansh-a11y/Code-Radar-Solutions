@@ -7,9 +7,9 @@ scanf("%d",&num1);
 printf("\nnum2");
 scanf("%d",&nnum2);
 if(a>b)
-printf("a is >");
+printf("num1 is >");
 else
-printf("b is >");
+printf("num2 is >");
 return 0;
 }
 
