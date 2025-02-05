@@ -10,6 +10,6 @@ if(num1>num2)
 printf("num1 is >");
 else
 printf("num2 is >");
-return 0;
+
 }
 
