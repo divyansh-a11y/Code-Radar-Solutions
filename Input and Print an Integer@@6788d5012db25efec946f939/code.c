@@ -2,8 +2,8 @@
 int main() 
 {
     int n;
-   // printf("n=10");
+   // printf("n=0");
     scanf("%d",&n);
-    printf("You entered: 10");
+    printf("You entered: 0");
     return 0;
 }
