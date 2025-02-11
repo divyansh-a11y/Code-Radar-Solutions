@@ -2,9 +2,9 @@
 int main()
 {
     int a,b;
-    printf("a=");
+    printf("a=5");
     scanf("%d",&a);
-    printf("\nb=");
+    printf("\nb=10");
     scanf("%d",&b);
     if(a>b)
     printf("a is greater");
