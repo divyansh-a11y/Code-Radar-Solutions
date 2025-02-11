@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main()
 {
-    int a=10,b=20,c=30;
+    a = int();
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
     if((a>b)&&(a>c))
-    printf("10");
+    printf("a");
     else if(b>c)
-    printf("20");
+    printf("b");
     else
-    printf("30");
+    printf("c");
 }
