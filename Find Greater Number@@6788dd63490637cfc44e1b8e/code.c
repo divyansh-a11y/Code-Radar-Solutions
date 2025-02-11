@@ -7,8 +7,8 @@ int main()
     printf("\nb=10");
     scanf("%d",&b);
     if(a>b)
-    printf("a is greater");
+    printf("10");
     else
-    printf("b is greater");
+    printf("5");
     return 0;
 }
