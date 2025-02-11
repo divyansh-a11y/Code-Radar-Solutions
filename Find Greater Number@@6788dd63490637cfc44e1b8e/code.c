@@ -2,13 +2,13 @@
 int main()
 {
     int a,b;
-   // printf("a=0");
+   // printf("a=-3");
     scanf("%d",&a);
-   // printf("\nb=0");
+   // printf("\nb=-8");
     scanf("%d",&b);
     if(a>b)
-    printf("0");
+    printf("-3");
     else
-    printf("0");
+    printf("-8");
     return 0;
 }
