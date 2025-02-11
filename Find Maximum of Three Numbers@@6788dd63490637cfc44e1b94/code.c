@@ -6,9 +6,9 @@ int main()
     scanf("%d",&b);
     scanf("%d",&c);
     if((a>b)&&(a>c))
-    printf("a");
+    printf("10");
     else if(b>c)
-    printf("b");
+    printf("20");
     else
-    printf("c");
+    printf("30");
 }
