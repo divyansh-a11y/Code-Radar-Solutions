@@ -5,7 +5,7 @@ int main()
    // printf("n=4");
     scanf("%d",&n);
     if(n%2==0)
-    printf("even number");
+    printf("even ");
     else
     printf("odd number");
     return 0;
