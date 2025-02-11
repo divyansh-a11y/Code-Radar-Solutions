@@ -2,7 +2,7 @@
 int main()
 {
     int year;
-    printf("year=");
+   // printf("year=2000");
     scanf("%d",&year);
     if(year%4==0&&year%400==0)
     printf("Leap Year");
