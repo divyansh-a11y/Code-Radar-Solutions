@@ -10,4 +10,5 @@ int main
     printf("a is greater");
     else
     printf("b is greater");
+    return 0;
 }
