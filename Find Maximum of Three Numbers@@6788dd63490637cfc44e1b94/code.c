@@ -10,5 +10,5 @@ int main()
     else if(b>c)
     printf("40");
     else
-    printf("30")
+    printf("30");
 }
